@@ -19,6 +19,14 @@
 	{
       "name": "📛丨涵萌E",
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/zengjian03/han/master/5/api.json"
+    },
+	{
+      "name": "📛丨涵萌KTV",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/zengjian03/han/master/ktv/api.json"
+    },
+	{
+      "name": "📛丨涵萌F",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/zengjian03/han/master/f/api.json"
     }
   ]
 }
