@@ -146,6 +146,7 @@ class Spider(Spider):
         result = {}
         cateManual = {
             "虎牙": "huya",
+            "抖音": "douyin",
             "斗鱼": "douyu",
             "网易": "wangyi"
         }
