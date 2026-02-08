@@ -2915,42 +2915,7 @@
             ]
         }
     ],
-    "lives": [
-        {
-            "name": "📡肥羊直播",
-            "type": 0,
-            "url": "https://sub.ottiptv.cc/iptv.m3u",
-            "ua": "okHttp/Mod-1.2.0.1"
-        },
-        {
-            "name": "📡AIGuovin",
-            "type": 0,
-            "url": "https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u",
-            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-            "playerType": 2,
-            "timeout": 10
-        },
-        {
-            "name": "📡猫影直播",
-            "type": 0,
-            "url": "https://iptv.catvod.com/tv.m3u",
-            "ua": "okHttp/Mod-1.2.0.1"
-        },
-        {
-            "name": "📡猫影港台",
-            "type": 0,
-            "url": "https://live.catvod.com/tv.m3u",
-            "ua": "catvod.com"
-        },
-        {
-            "name": "📡大葱娱乐",
-            "type": 0,
-            "url": "https://tv-1.iill.top/m3u/Live",
-            "ua": "okhttp/3.8.1",
-            "timeout": 20,
-            "playerType": 1
-        }
-    ],
+   
     "headers": [
         {
             "host": "148.135.93.213",
